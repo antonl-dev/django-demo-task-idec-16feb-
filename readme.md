@@ -34,6 +34,7 @@ A robust CRUD REST API for managing personal notes, built with Django and Django
 
 3. **Apply Migrations**:
    ```bash
+   python manage.py makemigrations api
    python manage.py migrate
    ```
 
